@@ -1,0 +1,36 @@
+.link {
+    color: lightblue;
+    font-size: 14px;
+}
+
+body {
+    font-family: "Verdana", sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+footer {
+    color: gray;
+    text-align: right;
+}
